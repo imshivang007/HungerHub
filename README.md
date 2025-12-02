@@ -47,3 +47,10 @@
 ```bash
 git clone https://github.com/YOUR-USERNAME/HungerHub.git
 cd HungerHub
+
+## 🤸 Quick Start
+
+### **Install Dependencies**
+```bash
+npm install
+
