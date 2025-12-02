@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  <h1>🍔 HungerHub – Food Ordering App</h1>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+  <img src="assets/readme/banner.png" alt="HungerHub Banner" />
 
-## Get started
+  <div>
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </div>
 
-1. Install dependencies
+  <h3>Modern food ordering mobile application built using React Native, Expo, and Appwrite.</h3>
+</div>
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 🤖 Introduction
+**HungerHub** is a full-stack mobile food ordering application with secure authentication, dynamic restaurant and food listing, search filtering, cart system, and user profile management. Built with **React Native + Appwrite**, it provides a smooth and intuitive user experience with scalable backend support.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## ⚙️ Tech Stack
+- **React Native (Expo)**
+- **TypeScript**
+- **Tailwind / NativeWind**
+- **Appwrite (Auth, Database, Storage)**
+- **Zustand (State Management)**
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🔋 Features
+- 🔐 **User Authentication**
+- 🍕 **Restaurant & Food Listing**
+- 🔎 **Search + Category Filters**
+- 🛒 **Add to Cart / Update Quantity**
+- 💳 **Checkout & Price Calculation**
+- 👤 **User Profile Screen**
+- 🗂 **Appwrite Database & Storage**
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🤸 Quick Start
 
+### **Clone Repository**
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/YOUR-USERNAME/HungerHub.git
+cd HungerHub
