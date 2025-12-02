@@ -49,5 +49,34 @@ git clone https://github.com/YOUR-USERNAME/HungerHub.git
 cd HungerHub
 ```
 
+---
+
+### **Installation**
+
+### **Install the project dependencies using npm:**
+```bash
+npm install
+```
+---
+
+### **Set Up Environment Variables**
+
+### **Create a new file named .env in the root of your project and add the following content:**
+```bash
+EXPO_PUBLIC_APPWRITE_PROJECT_ID=
+EXPO_PUBLIC_APPWRITE_ENDPOINT=
+```
+---
+
+### **Running the Project**
+
+```bash
+npx expo start
+```
+---
+
+
+
+
 
 
