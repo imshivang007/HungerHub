@@ -76,6 +76,10 @@ npx expo start
 ---
 
 
+## 🧑‍💻 Author
+**Shivang Gupta**
+
+⭐ Star the repository if you found it useful!
 
 
 
