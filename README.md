@@ -48,9 +48,45 @@
 git clone https://github.com/YOUR-USERNAME/HungerHub.git
 cd HungerHub
 
-## 🤸 Quick Start
+Setup Environment Variables
 
-### **Install Dependencies**
-```bash
-npm install
+Create a file named .env in the root directory and add:
+
+EXPO_PUBLIC_APPWRITE_ENDPOINT=
+EXPO_PUBLIC_APPWRITE_PROJECT_ID=
+EXPO_PUBLIC_APPWRITE_DATABASE_ID=
+EXPO_PUBLIC_APPWRITE_FOOD_COLLECTION_ID=
+EXPO_PUBLIC_APPWRITE_BUCKET_ID=
+
+
+Make sure to replace values from your Appwrite Console.
+
+Run App
+npx expo start
+
+
+Open Expo Go on your phone and scan the QR code to launch the app.
+
+📱 Screenshots
+
+Add screenshots inside /assets/readme folder
+
+<div align="center"> <img src="assets/readme/screen1.png" width="260" /> <img src="assets/readme/screen2.png" width="260" /> <img src="assets/readme/screen3.png" width="260" /> </div>
+🧑‍💻 Author
+
+Shivang Gupta
+
+⭐ Star the repository if you found it useful!
+
+🥳 Happy Coding — HungerHub 🚀
+
+---
+
+### Want additional sections?
+Just say:
+- **"yes add folder structure"**
+- **"yes add Appwrite setup"**
+- **"yes add GIF preview"**
+
+Would you like me to add the **folder structure section next**? 😊
 
