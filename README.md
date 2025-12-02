@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🍔 HungerHub – Food Ordering App</h1>
 
-  <img src="assets/readme/hero.png" alt="HungerHub Banner" />
+  
 
   <div>
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
@@ -45,7 +45,7 @@
 
 ### **Clone Repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/HungerHub.git
+git clone https://github.com/imshivang007/HungerHub.git
 cd HungerHub
 ```
 
